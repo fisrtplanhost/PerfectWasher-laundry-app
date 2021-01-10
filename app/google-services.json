@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542274506251",
+    "firebase_url": "https://perfect-washer-laundry.firebaseio.com",
+    "project_id": "perfect-washer-laundry",
+    "storage_bucket": "perfect-washer-laundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542274506251:android:3363ccd608eae415a4c10e",
+        "android_client_info": {
+          "package_name": "com.webapppro.co.za.perfectwasher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542274506251-28q0k6ifqr6jsosdv3fcavdh57kl7fst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDaf7WV1FYrVkfGZdYg4Y3-RHx2QpeKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542274506251-28q0k6ifqr6jsosdv3fcavdh57kl7fst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

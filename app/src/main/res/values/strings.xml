@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Perfect Washer</string>
+    <string name="sign_in">Login</string>
+    <string name="sign_up">Register</string>
+    <string name="description">We are offering online laundry services around Kempton park and locations around the peripheric of our store. The idea is to implement an easy and reliable service that will facilitate your daily program. </string>
+    <string name="full_name">Full name</string>
+    <string name="cell">Cell number</string>
+    <string name="email">Email/ Username</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm password</string>
+    <string name="version">Version: 1.0.0</string>
+</resources>
